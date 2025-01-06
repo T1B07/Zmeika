@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-8629478549716355473
+--- !u!114 &-8555706438368831214
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: "\u041F\u043E\u043B\u0435"
-  m_Shader: {fileID: -6465566751694194690, guid: d638fe5cd32d61048bbd844875537fc4, type: 3}
+  m_Name: "\u0425\u0430\u0432\u0447\u0438\u043A"
+  m_Shader: {fileID: -6465566751694194690, guid: 6179a9783d1f7a244b9c56ccf9fdb98d, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -68,8 +68,6 @@ Material:
     m_Ints: []
     m_Floats:
     - _EnableExternalAlpha: 0
-    - _Glossiness: 0.5
-    - _Metallic: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ZWrite: 0
